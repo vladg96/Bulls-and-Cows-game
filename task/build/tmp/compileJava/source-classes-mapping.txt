@@ -1,2 +1,0 @@
-bullscows/Main.java
- bullscows.Main

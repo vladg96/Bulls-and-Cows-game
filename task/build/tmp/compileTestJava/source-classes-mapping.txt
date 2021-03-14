@@ -1,2 +1,0 @@
-BullsCowsTest.java
- BullsCowsTest
